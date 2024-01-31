@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Car/Car.iml" filepath="$PROJECT_DIR$/Car/Car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassesAndEnterfacesExercises.iml" filepath="$PROJECT_DIR$/ClassesAndEnterfacesExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Movie/Movie.iml" filepath="$PROJECT_DIR$/Movie/Movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserValidator/UserValidator.iml" filepath="$PROJECT_DIR$/UserValidator/UserValidator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Velidator/Velidator.iml" filepath="$PROJECT_DIR$/Velidator/Velidator.iml" />
+    </modules>
+  </component>
+</project>
